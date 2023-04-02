@@ -1,5 +1,5 @@
 # Web Services com Spring Boot e JPA/Hibernate
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/DanielSalge/-workshop-springboot3-jpa/blob/main/LICENSE) 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/D-Salge/-workshop-springboot3-jpa/blob/main/LICENSE) 
 
 # Sobre o projeto
 
@@ -8,13 +8,13 @@ Web Services com Spring Boot e JPA/Hibernate é uma aplicação backend desenvol
 A aplicação consiste em um webservice divididos em camadas das quais são: Resource Layer(rest controller) que recebe as requisições e irão responder de acordo com o comportamento do sistema; Service Layer; e Data Access Layer(data repositories). Todas as camada anteriormente citadas comunicam-se com as entidades do projeto. 
 
 ## Modelo de Domínio
-![Domain Model](https://github.com/DanielSalge/assets/blob/main/modelo%20de%20dominio.png)
+![Domain Model](https://github.com/D-Salge/assets/blob/main/modelo%20de%20dominio.png)
 
 ## Instância de Domínio
-![Domain Instance](https://github.com/DanielSalge/assets/blob/main/modelo%20de%20instanciação.png)
+![Domain Instance](https://github.com/D-Salge/assets/blob/main/modelo%20de%20instancia%C3%A7%C3%A3o.png)
 
 ## Camadas Lógicas
-![Logical Layers](https://github.com/DanielSalge/assets/blob/main/logical%20layers.png)
+![Logical Layers](https://github.com/D-Salge/assets/blob/main/logical%20layers.png)
 
 # Tecnologias utilizadas
 ## Back end
@@ -33,7 +33,7 @@ Pré-requisitos: Java 17+
 
 ```bash
 # clonar repositório
-git clone https://github.com/DanielSalge/-workshop-springboot3-jpa.git
+git clone https://github.com/D-Salge/-workshop-springboot3-jpa.git
 
 # entrar na pasta do projeto back end
 cd backend
